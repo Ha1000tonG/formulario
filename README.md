@@ -3,7 +3,7 @@
 <div align="center"> <img src= "https://github.com/user-attachments/assets/61e6dc2e-8137-4996-9563-0b8b51d83d43" width="400" height="300"/></div>    
 
 # Descrição:
- Este é um formulário de contato simples que envia os dados (Nome, E-mail, e Mensagem) usando a ferramenta FormSubmit. 
+ Este é um formulário de contato que envia os dados (Nome, E-mail, e Mensagem) usando a ferramenta FormSubmit. 
 
 #
 * **O formulário coleta as seguintes informações do usuário:**
